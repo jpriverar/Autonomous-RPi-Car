@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.hdf5
+Assets/
+__pycache__
+*_values
